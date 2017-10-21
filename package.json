@@ -1,0 +1,26 @@
+{
+  "name": "@froice/content",
+  "version": "1.0.0",
+  "description": "A content management system full stack, independent front and backends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirAglovale/content.git"
+  },
+  "keywords": [
+    "CMS",
+    "Content",
+    "Froice",
+    "Full",
+    "Stack"
+  ],
+  "author": "Froice Limited",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/SirAglovale/content/issues"
+  },
+  "homepage": "https://github.com/SirAglovale/content#readme"
+}
